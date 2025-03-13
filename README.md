@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hi, I'm Juan Lu Xia!  
 
-<!--
-**Jugglermaster15/Jugglermaster15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **Finance & Data Enthusiast**  
+📊 **Financial Analyst | Data Analyst | Customer Experience**  
+💡 Passionate about financial markets, data-driven decision-making, and technology in logistics & finance.  
+🚀 Currently working on: Financial analysis project on Palantir (to be uploaded to GitHub).  
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools  
+- **Finance:** Corporate Finance, Risk Management, Financial Analysis  
+- **Data Analysis:** Python (Pandas, NumPy), SQL, Excel, Power BI, IBM Cognos  
+- **Languages:** Spanish (Native), Chinese (Bilingual), English (Proficient)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me  
+📩 **Email:** juan.luxia@gmail.com  
+💼 **[LinkedIn](https://www.linkedin.com/in/juan-lu-xia)**  
