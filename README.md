@@ -3,7 +3,7 @@
 💼 **Finance & Data Enthusiast**  
 📊 **Financial Analyst | Data Analyst | Customer Experience**  
 💡 Passionate about financial markets, data-driven decision-making, and technology in logistics & finance.  
-🚀 Currently working on: Financial analysis project on Palantir (to be uploaded to GitHub).  
+🚀 Currently working on: Financial analysis project on Palantir and many more.  
 
 ## 🔧 Skills & Tools  
 - **Finance:** Corporate Finance, Risk Management, Financial Analysis  
